@@ -1,5 +1,6 @@
 <?php
     $nome = "Gilmar";
+    $idade = 25;
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -11,5 +12,7 @@
 <body>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis, sint illo! Recusandae explicabo excepturi minima? Commodi deserunt possimus quibusdam reprehenderit atque harum rerum pariatur. Excepturi, dolor odit. Cumque, tempora earum?</p>
     <p>Seu nome é <?=$nome?></p>
+    <br>
+    <p>Sua idade é <?=$idade?> anos</p>
 </body>
 </html>
